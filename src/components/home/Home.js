@@ -6,13 +6,17 @@ const Home = () => {
     <div className="container">
       <div className="row">
         <div className="home">
-          <div className="col-12 p-5">
+          <div className="col-12">
             <img
               src="https://static.secure.website/wscfus/4693051/uploads/mascot_3_.png"
               alt="avatar"
+              height="50%"
             />
+          </div>
+          <div className="col-12">
             <h2>Front-End Web Developer</h2>
             <p>HTML5 | CSS3 | Bootstrap | JavaScript | React | Redux</p>
+
             <a
               href="https://github.com/ManvelDarbinyan"
               rel="noopener noreferrer"

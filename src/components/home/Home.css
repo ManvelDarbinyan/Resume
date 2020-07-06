@@ -27,3 +27,13 @@
   padding: 20px;
   color: white;
 }
+
+@media (max-width: 576px) {
+  .home h2 {
+    font-size: 20px;
+    font-weight: 200;
+  }
+  .home img {
+    height: 150px;
+  }
+}

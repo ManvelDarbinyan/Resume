@@ -31,7 +31,7 @@
 
 @media (max-width: 576px) {
   .home {
-    padding: 2rem;
+    padding: 1.5rem;
   }
   .home img {
     height: 250px;
@@ -47,8 +47,8 @@
     padding: 5px 0px;
   }
   .home i {
-    font-size: 45px;
-    padding: 20px;
+    font-size: 40px;
+    padding: 15px;
     color: white;
   }
 }

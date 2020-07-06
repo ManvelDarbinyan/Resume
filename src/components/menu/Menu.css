@@ -1,0 +1,16 @@
+.menu {
+  background: #000046;
+  background: -webkit-linear-gradient(to left, #1cb5e0, #000046);
+  background: linear-gradient(to left, #1cb5e0, #000046);
+  padding: 10px 50px;
+  position: fixed;
+  width: 100%;
+  z-index: 500;
+}
+.col-3 a {
+  color: white;
+  font-size: 20px;
+}
+.col-3 a:hover {
+  color: red;
+}

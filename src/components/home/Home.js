@@ -3,9 +3,9 @@ import "./Home.css";
 
 const Home = () => {
   return (
-    <div className="home">
-      <div className="container">
-        <div className="row">
+    <div className="container">
+      <div className="row">
+        <div className="home">
           <div className="col-12 p-5">
             <img
               src="https://static.secure.website/wscfus/4693051/uploads/mascot_3_.png"

@@ -19,7 +19,7 @@ const Contact = () => {
             }}
           />
           <div className="p-5 text-center overflow-auto ">
-            <img src={dev} alt="pic" style={{ width: "350px" }} />
+            <img src={dev} alt="pic" style={{ width: "300px" }} />
           </div>
         </div>
         <div

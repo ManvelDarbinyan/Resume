@@ -6,8 +6,11 @@
   color: #007bff;
   font-size: 30px;
 }
+.img img {
+  width: 300px;
+}
 @media (max-width: 576px) {
-  .img {
+  .img img {
     width: 200px;
   }
 }

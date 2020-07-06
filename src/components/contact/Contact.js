@@ -18,7 +18,7 @@ const Contact = () => {
               borderRadius: "50%",
             }}
           />
-          <div className="p-5 text-center overflow-auto ">
+          <div className="p-5 text-center overflow-auto img ">
             <img src={dev} alt="pic" style={{ width: "300px" }} />
           </div>
         </div>

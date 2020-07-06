@@ -6,16 +6,8 @@
   color: #007bff;
   font-size: 30px;
 }
-/* .map-container {
-  overflow: hidden;
-  padding-bottom: 56.25%;
-  position: relative;
-  height: 0;
+@media (max-width: 576px) {
+  .img {
+    width: 200px;
+  }
 }
-.map-container iframe {
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 100%;
-  position: absolute;
-} */

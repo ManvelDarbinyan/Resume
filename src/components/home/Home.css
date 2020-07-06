@@ -30,19 +30,20 @@
 
 @media (max-width: 576px) {
   .home img {
-    height: 150px;
+    height: 250px;
   }
   .home h2 {
     font-size: 30px;
-    font-weight: 300;
     color: white;
+    padding: 20px 0px;
   }
   .home p {
     font-size: 15px;
     color: white;
+    padding: 10px 0px;
   }
   .home i {
-    font-size: 40px;
+    font-size: 50px;
     padding: 20px;
     color: white;
   }
